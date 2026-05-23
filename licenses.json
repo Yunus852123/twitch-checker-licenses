@@ -54,5 +54,13 @@
     "created": "2026-05-23 22:16:42",
     "note": "Test Login (test@login.com)",
     "active": true
+  },
+  {
+    "key": "0AC43778-14C99C39-69D01FFC-036D7E93",
+    "hwid": null,
+    "expiry": "2026-06-22",
+    "created": "2026-05-23 22:37:03",
+    "note": "batuaktay4200 (batuaktay4200@gmail.com)",
+    "active": true
   }
 ]
