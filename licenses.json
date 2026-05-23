@@ -22,5 +22,13 @@
     "created": "2026-05-23 20:18:11",
     "note": "Live Test Customer (live-test@customer.com)",
     "active": true
+  },
+  {
+    "key": "EA7C1C73-9089C3FC-E16B524A-FA437E4E",
+    "hwid": null,
+    "expiry": "2026-06-22",
+    "created": "2026-05-23 20:32:08",
+    "note": "Live Test Customer (live-test@customer.com)",
+    "active": true
   }
 ]
